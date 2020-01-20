@@ -1,0 +1,1 @@
+This is Sheridan's first git project!
